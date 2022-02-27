@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new complaint of an old grievance, made by Lievt. Col. Iohn Lilburne, prerogative prisoner in the Tower of London. Nove. 23. 1647. To every individuall member of the Honourable House of Commons.</title>
+            <author>Lilburne, John, 1614?-1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88226</idno>
+            <idno type="STC">Wing L2147</idno>
+            <idno type="STC">Thomason E416_25</idno>
+            <idno type="STC">ESTC R204498</idno>
+            <idno type="EEBO-CITATION">99863987</idno>
+            <idno type="PROQUEST">99863987</idno>
+            <idno type="VID">161302</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88226)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161302)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E416[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new complaint of an old grievance, made by Lievt. Col. Iohn Lilburne, prerogative prisoner in the Tower of London. Nove. 23. 1647. To every individuall member of the Honourable House of Commons.</title>
+                  <author>Lilburne, John, 1614?-1657.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilburne, John, 1614?-1657 --  Imprisonment --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161302:1" rendition="simple:additions"/>
+            <head>A new complaint of an old grievance, made by Lievt Col. <hi>Iohn Lilburne,</hi> Prerogative priſoner in the Tower of <hi>London.</hi> 
+               <date>
+                  <hi>Nove.</hi> 23. 1647.</date> 
+               <hi>To every Individuall Member of the Honourable Houſe of Commons.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>MY exceeding urgent neceſſities, and my extraordinary ſufferings by your neglect in doing me juſtice and right, according to your many oaths and declarations, preſſeth me above meaſure ſtill to play the part of the poore importunate widow, mentioned in the Goſpel, and to reſolve whatever befalls me never to give over till I have attained her end, <hi>viz.</hi> Iuſtice.</p>
+            <p>You may pleaſe truly to take notice (and the rather becauſe many of you are new Members) that in the year 1637. and 1638. <hi>I</hi> ſuffered a moſt ba rbarous ſentence by the Star Chamber, occaſioned by two falſe oaths ſworne againſt me by <hi>Edmond Chillington,</hi> now a Lievtenant under Col. <hi>Whaly,</hi> and by my refuſing to anſwer interrogatories againſt my ſelf, <hi>in executing of which ſentence the</hi> 18. <hi>of</hi> April 1638. I <hi>was tyed to a Carts tayle at Fleet bridge, and whipt through the ſtreets to Weſt min<g ref="char:EOLhyphen"/>ſter, and had given me above the number of</hi> 500. <hi>ſtripes, with a threefold knotted corded whip, the weeles made in my back</hi> thereby <hi>being bigger then Tobacco pipes, &amp;c. And ſet two houres upon the Pillory bare head in an extraordinary hot day, and a gag out into</hi> my <hi>mouth above an houre, to the almoſt renting of my jawes in ſunder See my printed relation of my buſineſſe before the Lords bar the</hi> 13. Feb. 1645 <hi>where all this with much more is proved upon Oath.</hi>
+            </p>
+            <p>And upon that very day, 10. Iudges of the ſaid Star Chamber made an Order to murther and ſtarve me, <hi>the very words of which Order being, that the ſaid</hi> Iohn Lilburn <hi>ſhall be laid alone with irons on his hands and leggs, in the wards of the Fleet, where the baſeſt and meaneſt ſort of priſoners are uſed to be put: and that the Warden of the Fleet, take eſpeciall care to hinder the reſort of any perſons whatſoever unto him, and particularly, that he be not ſupplyed with money from any friend.</hi> And yet they nor any for them during all my impriſonment never allowed me the value of one farthing to<g ref="char:EOLhyphen"/>ken to live upon, but executed the ſaid Order upon me with ſo much barbaritie, that my pining, tormenting condition, was a thouſand times worſe, and leſſe to be indured, then any ſudden death whatever, under which without doubt I had periſhed, had it not been for the timely reliefe of this Parliament, by which ſaid ſufferings <hi>I</hi> was rob'd of a profitable trade, in the flower of my dayes.</p>
+            <p>And being by you ſet at liberty the firſt weeke of your ſitting, J was by the malice of one <hi>Little<g ref="char:EOLhyphen"/>ton</hi> a Courtier, by the Kings eſpeciall command arreſted of high Treaſon, and the 4. <hi>May</hi> 1641. by the Kings own direction, I received a kind of an Arraignment at the Lords bar, where the ſaid <hi>Littleton</hi> moſt falſely ſwore point blanke againſt me, to the apparant hazzard of my life and being if he had not been contradicted by the oath of his own friend Mr. <hi>Andrewes</hi> a Counceller, upon which day and at that very time, the Houſe of Commons were ſo ſencible of my ſad and ſuffering condition, that they were pleaſed upon the report of Mr. <hi>Rouſe</hi> to make theſe Votes for me.</p>
+            <p>
+               <hi>Reſolved upon the queſtion. That the ſentence of the Star Chamber given againſt</hi> Iohn Lilburne, <hi>is illegall and againſt the liberty of the Subject, and alſo bloody, wicked, cruell, barbarous, and tyrannicall.</hi>
+            </p>
+            <p>
+               <hi>Reſolved upon the queſtion, that reparations ought to be given to</hi> Mr Lilburne, <hi>for his impriſonment, ſuffering and loſſ<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s ſuſtained by that illegall ſentence.</hi>
+            </p>
+            <p>And yet I never had to this houre one penny of ſeparations, although J dare ſafely ſay it, I have ſpent above a thouſand pound one way and another in following you therefore, <hi>above the ſpace of ſeaven yeares, which is a longer time, for any thing I can read of in Scripture, then ever the importu<g ref="char:EOLhyphen"/>nate widow followed the unrighteous iudge (that neither feared God nor reverenced man) and yet obtained juſtice at his hands.</hi>
+            </p>
+            <p>That upon my deliverance, by the aſſiſtance of one of my friends, <hi>I</hi> betook my ſelf to a<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ride for my livelyhood, and of my own and my foreſaid friend, ſtockt it with almoſt 1500. l. ready money,
+<pb n="2" facs="tcp:161302:2"/>and the late wars comming on, at the deſires of many eminent men of this kingdome, my then choice friends, I left my trade, <hi>and in iudgement and conſcience</hi> girded my ſword unto my thigh, with an ho<g ref="char:EOLhyphen"/>neſt reſolution to ſpend my heart blood for the preſervation of the lawes and liberties of my native country, which then the Parliament by their Declarations, made me and the Kingdome beleeve was indeavoured to be diſt<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oyed by the King and his evill Councell. And having like a man of un<g ref="char:EOLhyphen"/>daunted reſolution adventured my life at <hi>Edge Hill</hi> and <hi>Brainford,</hi> with good and advantagious ſucceſſes to the Parliament, though with ill to my ſelfe, being to a good value plundered at both places, and at the laſt taken priſoner, where by the inhumaine barbaritie of ſeverall Lords and o<g ref="char:EOLhyphen"/>thers, <hi>I was d<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vers times in danger aſter quarter given</hi> (<hi>before I came at</hi> Oxford) <hi>to be <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>n in pieces, being pinioned with my arms behind me, and tyed to another, and forced on foot through all the dirt and mire to march two dayes together.</hi> And being arrived a priſoner at <hi>Oxford</hi> Caſtle, I was viſited by foure Lords, (<hi>viz</hi> The Lord <hi>Newarke,</hi> now Marqueſſe of <hi>Durcheſter,</hi> the Lord <hi>Dunſmore,</hi> now Earle of <hi>Chicheſter,</hi> the Lord <hi>Mattravers</hi> now Earle of <hi>Arundell,</hi> and the Lord <hi>And ver</hi>) as meſ<g ref="char:EOLhyphen"/>ſeng<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs from the King as they told me, and in his name proferred whatever in reaſon I could deſire in h<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> then proſperous condition, ſo <hi>I</hi> would forſake the Parliament, and my preſent principles, and deſire his pardon, which they all unanimouſly promiſed to git for me, <hi>but I told their Lordſhips they were maſtaken in me,</hi> if they thought I was to be courted out of my principles, and as for His Maje<g ref="char:EOLhyphen"/>ſties pardon, <hi>I</hi> told them I ſcorn'd either the craving or accepting of it, having in obedience to the Parliaments then commands done nothing but what <hi>I</hi> did then beleeve was juſt and legall, and for which I would willingly lay my life down. &amp; the deſiring or accepting of a pardon would argue guil<g ref="char:EOLhyphen"/>tineſſe, which I told them I beleeved I had no need to confeſſe. <hi>Whereupon I was clapt in irons n<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ght and day, forc'd to lye in my cloaths upon the flore, lockt up cloſe in a chamber,</hi> when I had not a penny of money about me, being lately plundered of all I had, and a centry ſet at my doore, that I could not ſpeake with any of my fellow priſoners, to borrow a penny to buy me bread, by means of which, <hi>I</hi> was expoſed to the greateſt of ſtraights; and immediately in irons arraigned as a Trator, before <hi>Sir Robert Heath and Sir Thomas Gardner,</hi> for levying war againſt the King, by authority from the Parliament, and I pleaded to my Indictment, telling the Iudge, <hi>I</hi> girded my ſword unto my thigh in judgement and conſcience, by vertue of the greateſt authority in the land, with a reſolution to ſpend the laſt drop of my blood, for the preſervation of the juſt lawes and liberties of my native country, being ſeduced thereunto by no fleſh alive, <hi>acting not by an implicite faith, but upon principles of judge<g ref="char:EOLhyphen"/>ment and underſtanding, in the defence whereof I told him I was then as ready to dye by a balter, as before I had been either by a Bullet or a Sword,</hi> and having eſcaped that danger of hanging by a let<g ref="char:EOLhyphen"/>ter of the Speakers of this Houſe, threatning unto them, <hi>Lex taliones. As you may read in the firſt part book Decl. pag</hi> 802. 803.</p>
+            <p>I contracted there, by my hard uſage, a deſparate and dangerous ſickneſſe, of which <hi>I</hi> lay ſpeechleſſe divers dayes, the inhumanitie of the barbarous Marſhall <hi>Smith</hi> being ſuch toward me, that he would neither ſuffer Phyſitian, Apothecary, Surgion, nor Nurſe to come neare me, and though ſome Gentlemen, then in bonds with me, got a poore halfe ſtarved priſoner to looke to me, yet he was clapt up twice cloſe priſoner for helping me in thoſe great ſtraights, and I could not freely injoy his helpe till <hi>I</hi> purchaſed it for money at the hands of one of <hi>Smiths</hi> cruell tormentors.</p>
+            <p>By which impriſonment (beſides my large expences there) <hi>I</hi> loſt at <hi>London</hi> in debts, &amp;c. (my Debtors taking the advantage of my arraigment for treaſon, would as they ſaid pay no Traytors debts) about 600. l. every penny of which lay upon my own particular ſhoulders. And comming out with the ſame Principles <hi>I</hi> went in, <hi>I</hi> betook my ſelf to my ſword again, <hi>having refuſed here at London, divers places of eaſe, profit and honour,</hi> and with much reſolution and integritie, in the mideſt of many diſcouragements, <hi>I</hi> fought under the Earle of <hi>Mancheſters</hi> command ſo long, tell (by the viſi<g ref="char:EOLhyphen"/>ble apoſtatiſing from the firſt declared ends, and by the wickedneſſe, treachery, baſeneſſe, and perfidi<g ref="char:EOLhyphen"/>diouſneſſe I found there) <hi>I</hi> had loſt all my principles, and could not for all the world any longer
+<pb n="3" facs="tcp:161302:2"/>kill Cavieleers, in whoſe ſervice I was plundered the third time at <hi>Newarke,</hi> to the value almoſt of 100. l. beſides many ſcores of pounds of my own money in that ſervice <hi>I</hi> ſpent, more then ever there <hi>I</hi> received, there being due unto me at this day for my arreers there, the greateſt part of a thouſand pounds, as <hi>I</hi> doubt not upon juſt and true g<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ounds clearely when you pleaſe to make appeare.</p>
+            <p>That at the laying down my command <hi>I</hi> vigorouſly, with all the intereſt I had in <hi>England</hi> betook myſelf to an earneſt proſecution to obtaine at the hands of your Houſe, my juſt and long expected and promiſed reparations from my cruell Star Chamber Iudges (one of which ſits in your houſe at this day) in the following of which I met with ſuch heard and unreaſonable meaſure (not only from the hands of your houſe it ſelf, but alſo from its Committees, in being cauſl<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſly toſſed &amp; tumbled out of the hands of one Meſſenger to another &amp; from one gaol to another) that it made me almoſt as weary of the Land of my nativity, as ever the <hi>Iſraelites</hi> were of <hi>Egypt</hi> when the cruel tyrant <hi>Pharoah</hi> made them to make bricks without ſtraw, eſpecially when I conſidered that all this was done unto me by thoſe for the ſaving alive, and preſerving of whom, I had ſo often, freely, and reſolutely with my ſword in my hand adventured my life, and in the dayes of their greateſt ſtraights and calamities been as faithfull to them, as ever <hi>Jonathan</hi> was to <hi>David,</hi> when he hazzarded ruine and diſtruction from his father for ſiding with him. Yea, and if then it had been in my power, could have done a thouſand times more then I did, verily beleeving they would have perfor<g ref="char:EOLhyphen"/>med their juſt Declarations to the kingdome. But before the ſtorm of your in<g ref="char:EOLhyphen"/>dignation was well blown over, the fearcenes of which had almoſt overwhelm'd me, behold ſuch a furious tempeſt the 10. <hi>July</hi> 1646. <hi>ariſeth againſt me by the houſe of Lords, as if it would have blown me into another Horizon,</hi> or have Metamorphaſed me into the ſhape <hi>and habit of a bruit beaſt, and have robd me of all things that might give me the denominotion of a man, levelling thereby the liberties and freedomes of all the Commons of England, unto their arbitrary, Lordly wills.</hi> And having about 18. moneths agoe fled unto you (as iuſtly I might) for ſhelter, protection, and juſtice againſt them, which by my ſeverall Pleas before your Committees I have pro<g ref="char:EOLhyphen"/>ved you ought long ſince to have afforded me; and having the 11. of this inſtant <hi>in halfe a ſheet of Paper, preſented</hi> (<hi>here at your doore, as now</hi> J <hi>doe to your hands</hi>) <hi>an ab<g ref="char:EOLhyphen"/>ſtract of the Lords tyrannicall; illegall dealing with me.</hi> And of all by way of Plea, I have for my ſelfe to ſay; with a deſire to ſtand or fall under your judgement thereupon, which yet I cannot obtaine from you, and therefore referring you to that Abſtract, and to my Grand plea before Mr. <hi>Maynard, upon the</hi> 20. <hi>October laſt, and my Aditionall Plea annexed unto it, for all the particulars</hi> I <hi>crave and chal<g ref="char:EOLhyphen"/>lenge at your hands as my right and due.</hi> I adjure you before Heaven and Earth, and before the Lord <hi>Jehovah,</hi> and his mighty and glorious Angels, without any more delay, to adjudge my cauſe betwixt the Lords and me, either to my juſtification or condemnation, <hi>and to doe me juſtice and right, by helping me to my own,</hi> kept from me by you, and doe not by your 7 yeares delay of juſtice, lay more provokati<g ref="char:EOLhyphen"/>ons upon me, then my ſtrength and abilitie is able to beare, and then goe about to
+<pb n="4" facs="tcp:161302:3"/>diſtroy me, for my crying out of your oppreſſiion; when in the eye of reaſon I have no other remedie left me in this world but that, or to diſtroy my ſelf, wife and children, which even nature it ſelf abhors, or elſe to live upon the kindneſſes of thoſe, that in future time to my reproach ſhall (as ſome from whom I ſhould lit<g ref="char:EOLhyphen"/>tle have expected it, have lately done) hit me in the teeth with it, which makes the proffer of their courteſies a ſcorne unto me, and the thoughts of not being able to repay them againe; a burthen to my ſpirit. And therefore to conclude, let me in the bitterneſſe of my ſpirit, ſay unto you as the unrighteous Iudge ſaid unto him<g ref="char:EOLhyphen"/>ſelf, <hi>although by your actings towards me, you declare you neither feare God, nor reve<g ref="char:EOLhyphen"/>rence man, yee for my neceſſitie and preſſing importunities ſake, now at laſt doe me juſtice and right;</hi> for if I muſt dye by yours and the Lords murthering oppreſſion, I am reſolved, if <hi>I</hi> can helpe it, I will not dye alone, nor in a corner in ſilence. Therfore help me to my own, to leave ſubſiſtance unto my wife &amp; children, that they may not beg their bread when <hi>I</hi> am dead and gone. And if nothing but my blood will ſerve my cruell adverſaries, if they be men, I <hi>challenge the ſtouteſt of them in Eng<g ref="char:EOLhyphen"/>land, hand to hand, with his ſword in his hand like a man to put a period to my dayes,</hi> be<g ref="char:EOLhyphen"/>ing ready to anſwer any man in England, Lord or Commoner, that hath any thing to lay to my charge: Either,
+<list>
+                  <item>
+                     <hi>Firſt, as a rationall man: Or,</hi>
+                  </item>
+                  <item>
+                     <hi>Secondly, as a reſolved man: Or,</hi>
+                  </item>
+                  <item>
+                     <hi>Thirdly, at an Engliſh man.</hi>
+                  </item>
+               </list> In the laſt of which <hi>I</hi> ſh<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l deſire no more favour then every <hi>Traytor, Rogue, or Mur<g ref="char:EOLhyphen"/>therer,</hi> that is arraigned for his life at <hi>Newgate</hi> Seſſions injoyes, <hi>viz. the benefit of the declared, known law of England.</hi> And ſo at preſent I reſt.</p>
+            <closer>
+               <dateline>
+                  <hi>From my ſtarving, murthering, tyranni<g ref="char:EOLhyphen"/>call, and moſt illegall impriſonment in the Tower of</hi> London, <date>
+                     <hi>this</hi> 23 Novem. 1647.</date> 
+                  <hi>g<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ing in the eight yeare of my fruitl<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſe expecting iuſtice from the deafe and hard hearted houſe of Commons.</hi>
+               </dateline>
+               <signed>Your oppreſſed friend, that loud<g ref="char:EOLhyphen"/>ly cryes out to you for juſtice and right. Iohn Lilburne.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
